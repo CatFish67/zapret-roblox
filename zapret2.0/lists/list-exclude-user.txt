@@ -1,0 +1,5 @@
+domain.example.abc
+portal.edu.asu.ru
+github.com
+asu.ru
+chat.qwen.ai
